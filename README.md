@@ -1,4 +1,4 @@
-# landingpage
+# calculator
 I am Creat a landing page using HTML and JS
 <!DOCTYPE html>
 <html lang="en">
